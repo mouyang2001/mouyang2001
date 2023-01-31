@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a Software Engineer 👨‍💻 currently in my penultimate year, studying a Bachelor of Engineering 👷‍♂️ at the University of Auckland 🎓.
+I'm a Software Engineer 👨‍💻 student in my final year studying a Bachelor of Engineering 👷‍♂️ at the University of Auckland 🎓. I want to build new an exciting software.
 
 Please visit my 🔗 [portfolio](https://mouyang2001.github.io/portfolio/) website to learn more about me 🕵️‍♂️.
 
