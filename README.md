@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-I am a highly accomplished Software Engineering student with extensive experience in the field. As I approach the end of my final year, pursuing a Bachelor of Engineering degree from the prestigious University of Auckland, I remain driven by my long-standing ambition to work in the technology industry and make a positive impact on people's lives. With my impressive background, I am excited to connect with you and explore all the possibilities that the future holds. 
+I'm a Software Engineer at Atlassian working on AI Agents.
+
+I also enjoy solving programming problems in my spare time.
 
 Please visit my 🔗 [portfolio](https://mouyang2001.github.io/portfolio/) website to learn more about me 🕵️‍♂️.
 
